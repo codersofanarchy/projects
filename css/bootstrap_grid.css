@@ -10,3 +10,24 @@
 .xsBackground{
     background-color: chocolate;
 }
+.designImg{
+background-color: #E6563B;
+}
+.developImg{
+background-color: #EB9D3A;
+}
+.supportImg{
+background-color: #7CB06C;
+}
+.hostImg{
+background-color: #00ABA9;
+}
+.rounded-circle
+{
+    background-color: red
+    !important;
+    height: 125px
+    !important;
+    width: 125px
+    !important;
+}
