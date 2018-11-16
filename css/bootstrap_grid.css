@@ -24,10 +24,8 @@ background-color: #00ABA9;
 }
 .rounded-circle
 {
-    height: 125px
-    !important;
-    width: 125px
-    !important;
+    height: 125px;
+    width: 125px;
     border: 50px
     !important;
 }
@@ -60,4 +58,59 @@ background-color: #00ABA9;
 {
     height: 99px
     !important;
+}
+
+.xs1img
+{
+    background-color: red;
+}
+
+xs-rounded-circle
+{
+    height: 35px
+    !important;
+    width: 35px
+    !important;
+    border: 50px
+    !important;
+}
+  .btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    background-color: red;
+}
+.btn-circle2 {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    background-color: orange;
+}
+.btn-circle3 {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    background-color: green;
+}
+.btn-circle4 {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    background-color: #00ABA9
 }
