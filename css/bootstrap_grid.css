@@ -119,3 +119,29 @@ xs-rounded-circle
 {
     height: 115px !important;
 }
+h1{
+    font-family: 'Anton', sans-serif;
+    height:64px;
+}
+
+h2{
+    font-family: 'Anton', sans-serif;
+    height:48px;
+}
+
+h3{
+    font-family: 'Anton', sans-serif;
+    height:40px;
+}
+
+h4{
+    font-family: 'Anton', sans-serif;
+    height:32px;
+}
+h5{
+    font-family: 'Anton', sans-serif;
+    height:28px;
+}
+p{
+    font-family: 'Abel', sans-serif;
+}
