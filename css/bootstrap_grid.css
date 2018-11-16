@@ -28,4 +28,31 @@ background-color: #00ABA9;
     !important;
     width: 125px
     !important;
+    border: 50px
+    !important;
+}
+
+.my-row
+{
+    height: 250px
+    !important;
+}
+
+.editthis
+{
+    background-color: white
+    !important;
+}
+
+.ayo
+{
+    width: 35rem
+    !important;
+
+}
+
+.lookatme
+{
+    height: 75px
+    !important;
 }
