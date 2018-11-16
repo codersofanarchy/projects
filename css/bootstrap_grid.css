@@ -114,3 +114,8 @@ xs-rounded-circle
     line-height: 1.42857;
     background-color: #00ABA9
 }
+
+.bottomr
+{
+    height: 115px !important;
+}
